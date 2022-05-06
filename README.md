@@ -1,4 +1,4 @@
-##Tindog
+#Tindog
 
 It is a responsive website developed using HTML,CSS and Bootstrap.
 
